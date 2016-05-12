@@ -39,6 +39,15 @@
   float:right;
 }
 
+.sup h1 {
+  color: white;
+  margin-top:100px;
+}
+.sup p {
+  margin-top:15px;
+  color:white;
+}
+
 .supporting-1 {
   background-color:#161718;
 }
